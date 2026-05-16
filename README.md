@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sheetal Kempannavar</h1>
+<h1 align="center">Hi , I'm Sheetal Kempannavar</h1>
 
 <h3 align="center">
-💻 Software Developer Enthusiast | 🌐 Web Developer | 📊 Data Analytics Learner
+Software Developer Enthusiast | Web Developer | Data Analytics Learner
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 Passionate Software Developer and Web Development Enthusiast skilled in Python, HTML, CSS, JavaScript, Flask, and Data Analytics. Focused on building modern, responsive, and user-friendly web applications while continuously learning new technologies and improving problem-solving skills.
 
@@ -27,7 +27,7 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 </div>
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -37,23 +37,23 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-# 📚 Skills & Tools
+#  Skills & Tools
 
-### 👨‍💻 Programming & Development
+###  Programming & Development
 - Python Programming
 - HTML5, CSS3, JavaScript
 - Flask
 - PHP
 - MERN Stack Basics
 
-### 📊 Data & Analytics
+###  Data & Analytics
 - MS Excel
 - Data Analytics
 - Power BI
 - NumPy
 - Pandas
 
-### 💡 Core Skills
+###  Core Skills
 - Data Structures
 - Problem Solving
 - Critical Thinking
@@ -62,17 +62,17 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-# 🎓 Education
+#  Education
 
 | Qualification | Institution |
-|---|---|---|
+|---|---|
 | Master of Computer Applications (MCA) | MVIT Bangalore(Present) 
 | Bachelor of Computer Applications (BCA) | Presidency College, Bangalore 
 | Higher Secondary (CBSE) | Kendriya Vidyalaya NPA, Hyderabad 
 
-# 💼 Internship Experience
+# Internship Experience
 
-## 🏢 EY Global Delivery Services & AICTE, Bangalore  
+##  EY Global Delivery Services & AICTE, Bangalore  
 ### INTERN | Oct 2024 – Jan 2025
 
 ✔️ Completed internship through **Edunet Foundation**  
@@ -83,9 +83,9 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-# 🚀 Projects
+#  Projects
 
-## 💇 LushHair – Human Hair Extension AI E-Commerce Website
+##  LushHair – Human Hair Extension AI E-Commerce Website
 
 🔹 Developed an interactive e-commerce platform using **HTML, CSS, JavaScript, and Flask**  
 
@@ -95,7 +95,7 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-## 📝 Online Examination System
+##  Online Examination System
 
 🔹 Built an online examination platform using **HTML, CSS, JavaScript, and PHP**  
 
@@ -105,7 +105,7 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 🏆 Generative AI — LinkedIn Learning
 
@@ -120,7 +120,7 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 ---
 
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
