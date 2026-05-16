@@ -11,20 +11,15 @@
 ---
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-✨ BCA Graduate from **Presidency College Bangalore**  
+Passionate Software Developer and Web Development Enthusiast skilled in Python, HTML, CSS, JavaScript, Flask, and Data Analytics. Focused on building modern, responsive, and user-friendly web applications while continuously learning new technologies and improving problem-solving skills.
 
-✨ Passionate about **Software Development, Web Technologies, and Data Analytics**  
+---
 
-✨ Interested in creating modern, interactive, and user-friendly web applications  
+# ✨ Quote
 
-✨ Strong communication, analytical thinking, and teamwork abilities  
-
-✨ Quick learner who enjoys exploring new technologies and solving real-world problems  
-
-✨ Looking forward to opportunities where I can contribute, learn, and grow professionally  
-
+> “Turning ideas into reality through code and creativity.”
 ---
 
 # 🛠️ Tech Stack
