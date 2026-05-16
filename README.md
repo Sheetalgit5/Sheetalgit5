@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;BCA+Graduate+from+Presidency+College+Bangalore;Passionate+About+Web+Development+%26+Technology;Python+%7C+Flask+%7C+JavaScript+%7C+Data+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
@@ -17,10 +17,15 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 ---
 
-# ✨ Quote
+<div align="center">
 
-> “Turning ideas into reality through code and creativity.”
----
+## ✨ 
+
+```diff
++ "Turning ideas into impactful digital experiences through code, creativity, and continuous learning."
+```
+
+</div>
 
 # 🛠️ Tech Stack
 
@@ -59,12 +64,11 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 # 🎓 Education
 
-| Qualification | Institution | Duration |
+| Qualification | Institution |
 |---|---|---|
-| Bachelor of Computer Applications (BCA) | Presidency College, Bangalore | Aug 2022 – Jun 2025 |
-| Higher Secondary (CBSE) | Kendriya Vidyalaya NPA, Hyderabad | May 2020 – Jun 2022 |
-
----
+| Master of Computer Applications (MCA) | MVIT Bangalore(Present) 
+| Bachelor of Computer Applications (BCA) | Presidency College, Bangalore 
+| Higher Secondary (CBSE) | Kendriya Vidyalaya NPA, Hyderabad 
 
 # 💼 Internship Experience
 
@@ -103,67 +107,18 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 # 📜 Certifications
 
-🏆 Generative AI — LinkedIn Learning *(Nov 2024)*  
+🏆 Generative AI — LinkedIn Learning
 
-🏆 Power BI for Beginners — Great Learning *(Dec 2024)*  
+🏆 Power BI for Beginners — Great Learning
 
-🏆 Microsoft Excel Professional — Microsoft *(Ongoing)*  
+🏆 Microsoft Excel Professional — Microsoft  
 
-🏆 Crash Course in Python Programming — Google  
+🏆 Course in Python Programming — Google  
 
 🏆 Web Development Course — Simplilearn  
 
 ---
 
-# 🌍 Languages Known
-
-- English
-- Hindi
-- Kannada
-
----
-
-# 🎯 Interests
-
-📚 Reading Books  
-
-🎵 Music  
-
-🤝 Community Activities  
-
-💻 Learning New Technologies  
-
-📈 Exploring Data Analytics  
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sheetalgit5&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheetalgit5&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sheetalgit5&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheetalgit5&theme=tokyo-night"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
@@ -183,17 +138,7 @@ Passionate Software Developer and Web Development Enthusiast skilled in Python, 
 
 </p>
 
----
 
-# ✨ Developer Quote
-
-<p align="center">
-
-> ### “Code. Learn. Build. Improve. Repeat.”
-
-</p>
-
----
 
 <p align="center">
   
